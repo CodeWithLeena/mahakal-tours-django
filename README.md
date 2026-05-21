@@ -1,3 +1,4 @@
+
 # 🕉️ Mahakal Tour & Travels — Django Website
 
 ## Website Features
@@ -88,3 +89,7 @@ python manage.py collectstatic
 ---
 
 ## 🙏 Har Har Mahakal!
+=======
+# mahakal-tours-django
+Travel and tour booking website built using Django.
+
