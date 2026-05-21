@@ -5,7 +5,7 @@ import json
 
 
 VEHICLES = [
-    {'name': 'Swift Dzire', 'price': 11, 'capacity': 4, 'type': 'Sedan', 'image': 'home/images/vehicles/swift_dzire.jpg'},
+    {'name': 'Swift Dzire', 'price': 11, 'capacity': 4, 'type': 'Sedan', 'image': 'home/static/images/vehicles/swift_dzire.jpg'},
     {'name': 'Ertiga', 'price': 13, 'capacity': 7, 'type': 'MUV', 'image': 'home/images/vehicles/ertiga.jpg'},
     {'name': 'Tavera', 'price': 15, 'capacity': 8, 'type': 'SUV', 'image': 'home/images/vehicles/tavera.jpg'},
     {'name': 'Innova Crysta', 'price': 18, 'capacity': 8, 'type': 'SUV Premium', 'image': 'home/images/vehicles/innova.jpg'},
